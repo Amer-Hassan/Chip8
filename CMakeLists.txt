@@ -14,3 +14,5 @@ add_executable(
 target_compile_options(chip8 PRIVATE -Wall)
 
 target_link_libraries(chip8 PRIVATE SDL2::SDL2)
+
+The DUNE
